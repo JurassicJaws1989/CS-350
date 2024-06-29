@@ -32,6 +32,11 @@ learn more.
 * Experience with microcontrollers and how to interact with them
 * Experience with peripherals like UART, I2C, and GPIO
 # What skills from this project will be particularly transferable to other projects and/or course work?
+Many skills utilized within this project will easily transfer to other future projects, whether in education or in my professional career. Simply, the experience working with hardware and software together is incredibly 
+beneficial for getting a more beneficial and well-rounded understanding on how components interact with one-another. Also, the extra experience with another programming language will only aim to increase my ability going forward.
+# How did you make this project maintainable, readable, and adaptable?
+As I mentioned above, this is one area where I feel I could have improved a bit. With that said, in terms of maintainability and readability, I tried to structure all of my code in a way where it was easy to read and follow. I tried to 
+add as many comments as I could to ensure that I would understand what I was doing as I logged back in to continue working on the project. The code is as adaptable as I could make it, with all declarations taking place in well defined modular functions.
 
 
 
