@@ -28,5 +28,10 @@ have been cleaner, and better organized. While it did end up functional in the e
 # What tools and/or resources are you adding to your support network?
 Throughout this project, and this class as a whole, I have been introduced to a multitude of new concepts and resources. While this has simply scratched the surface, I now have the tools equipped that enable me 
 learn more. 
+* More experience writing in C, which is useful for not only embedded systems but many other avenues
+* Experience with microcontrollers and how to interact with them
+* Experience with peripherals like UART, I2C, and GPIO
+# What skills from this project will be particularly transferable to other projects and/or course work?
+
 
 
