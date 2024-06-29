@@ -19,6 +19,14 @@ All code was composed within TI Code Composer Studio
 - We were also required to provide a task scheduler diagram and a written report
 
 # What did you do particularly well?
-
+One thing that exceeded my expectation was my ability to acheive the required functionality in the prototype at a code level. I do not have any experience with embedded systems, and have not
+had a ton of experience writing in C. Due to this, I had some trepedations when reading through some of the requirements. I am proud of my ability to work through these challenges, and am also thankful for 
+the provided resources, my intructor, and my class peers for all of the help while working through this project. 
+# Where could you improve?
+With my experience previously mentioned, I think one area of improvement is gaining a stronger fundamental understanding on the concepts. Especially when the peripherals are concerned. I think that my code could
+have been cleaner, and better organized. While it did end up functional in the end, I am thinking that it could have been better commented and more readable.
+# What tools and/or resources are you adding to your support network?
+Throughout this project, and this class as a whole, I have been introduced to a multitude of new concepts and resources. While this has simply scratched the surface, I now have the tools equipped that enable me 
+learn more. 
 
 
